@@ -1,0 +1,15 @@
+2021-10-14 21:24:50  [21700] [BEGIN] [databaseId:0] rdb00_127
+2021-10-14 21:24:50  [21700] SELECT "id","title","body","created_at","updated_at","lock_revision" FROM "blog" t0
+2021-10-14 21:24:50  [21700] [COMMIT] [databaseId:0] rdb00_127
+2021-10-14 21:25:02  [21700] [BEGIN] [databaseId:0] rdb00_127
+2021-10-14 21:25:02  [21700] INSERT INTO "blog" ("title", "body", "created_at", "updated_at", "lock_revision") VALUES ('1213', '2123', '2021-10-14T21:25:02.403', '2021-10-14T21:25:02.403', 1)
+2021-10-14 21:25:02  [21700] [COMMIT] [databaseId:0] rdb00_127
+2021-10-14 21:25:02  [21700] [BEGIN] [databaseId:0] rdb00_127
+2021-10-14 21:25:02  [21700] SELECT "id","title","body","created_at","updated_at","lock_revision" FROM "blog" t0 WHERE t0."id"=1 LIMIT 1
+2021-10-14 21:25:02  [21700] [COMMIT] [databaseId:0] rdb00_127
+2021-10-14 21:25:06  [21700] [BEGIN] [databaseId:0] rdb00_127
+2021-10-14 21:25:06  [21700] SELECT "id","title","body","created_at","updated_at","lock_revision" FROM "blog" t0
+2021-10-14 21:25:06  [21700] [COMMIT] [databaseId:0] rdb00_127
+2021-10-14 21:25:10  [21700] [BEGIN] [databaseId:0] rdb00_127
+2021-10-14 21:25:10  [21700] SELECT "id","title","body","created_at","updated_at","lock_revision" FROM "blog" t0 WHERE t0."id"=1 LIMIT 1
+2021-10-14 21:25:10  [21700] [COMMIT] [databaseId:0] rdb00_127

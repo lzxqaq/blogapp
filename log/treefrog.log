@@ -1,0 +1,14 @@
+2021-10-14 21:23:42 INFO  [21516] TreeFrog Framework version 2.1.0
+2021-10-14 21:23:42 INFO  [21516] Execution environment: Qt 5.15.2 / Manjaro Linux
+2021-10-14 21:23:42 INFO  [21516] TreeFrog application servers started up.
+2021-10-14 21:24:22 INFO  [21516] TreeFrog application servers shutting down
+2021-10-14 21:24:22 INFO  [21516] TreeFrog application servers shutdown completed
+2021-10-14 21:24:30 INFO  [21602] TreeFrog Framework version 2.1.0
+2021-10-14 21:24:30 INFO  [21602] Execution environment: Qt 5.15.2 / Manjaro Linux
+2021-10-14 21:24:30 INFO  [21602] TreeFrog application servers started up.
+2021-10-14 21:24:52 WARN  [21701] Reading a socket timed out after 10 seconds. Descriptor:12
+2021-10-14 21:25:06 WARN  [21725] Reading a socket timed out after 10 seconds. Descriptor:12
+2021-10-14 21:25:16 WARN  [21751] Reading a socket timed out after 10 seconds. Descriptor:12
+2021-10-14 21:25:20 WARN  [21700] Reading a socket timed out after 10 seconds. Descriptor:10
+2021-10-14 21:27:26 INFO  [21602] TreeFrog application servers shutting down
+2021-10-14 21:27:27 INFO  [21602] TreeFrog application servers shutdown completed
